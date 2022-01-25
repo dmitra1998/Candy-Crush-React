@@ -1,0 +1,6 @@
+export {default as blank} from './blank.png'
+export {default as chocolate} from './yellowCandy.png'
+export {default as dango} from './redCandy.png'
+export {default as iceCream} from './orangeCandy.png'
+export {default as lollipop} from './greenCandy.png'
+export {default as purpleCandy} from './purpleCandy.png'
